@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vocabulary xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <word>a great deal of</word>
+    <meaning id="1">다량의</meaning>
+    <synonym id="1">a lot of</synonym>
+  </item>
+  <item>
+    <word>advantage</word>
+    <meaning id="1">이익</meaning>
+    <synonym id="1">profitable, gainful, beneficial</synonym>
+  </item>
+  <item>
+    <word>aesthetic</word>
+    <meaning id="1">미적인</meaning>
+    <synonym id="1">artistic</synonym>
+  </item>
+  <item>
+    <word>antiquity</word>
+    <meaning id="1">고대</meaning>
+    <synonym id="1">ancient times</synonym>
+  </item>
+  <item>
+    <word>appropriate</word>
+    <meaning id="1">적절한</meaning>
+    <synonym id="1">improper, unsuitable</synonym>
+  </item>
+  <item>
+    <word>capacity</word>
+    <meaning id="1">능력</meaning>
+    <meaning id="2">용적</meaning>
+    <synonym id="1">ability, flair, talent</synonym>
+    <synonym id="2">volume, dimensions</synonym>
+  </item>
+  <item>
+    <word>catastrophic</word>
+    <meaning id="1">비참한, 비극적인</meaning>
+    <synonym id="1">disastrous, tragic</synonym>
+  </item>
+  <item>
+    <word>compliment</word>
+    <meaning id="1">칭찬, 경의</meaning>
+    <synonym id="1">commendation, honor, tribute</synonym>
+  </item>
+  <item>
+    <word>configuration</word>
+    <meaning id="1">배치, 배열</meaning>
+    <synonym id="1">arrangement, conformation</synonym>
+  </item>
+  <item>
+    <word>crude</word>
+    <meaning id="1">천연 그대로의, 가공치 않은</meaning>
+    <synonym id="1">rough, raw, unrefined</synonym>
+  </item>
+  <item>
+    <word>desperate</word>
+    <meaning id="1">필사적인</meaning>
+    <synonym id="1">as a last resort</synonym>
+  </item>
+  <item>
+    <word>detract</word>
+    <meaning id="1">(가치, 명성 등을) 줄이다</meaning>
+    <synonym id="1">reduce, diminish, lessen</synonym>
+  </item>
+  <item>
+    <word>devout</word>
+    <meaning id="1">독실한</meaning>
+    <synonym id="1">pious, reverent, religious</synonym>
+  </item>
+  <item>
+    <word>donation</word>
+    <meaning id="1">기부(금), 기증(물)</meaning>
+    <synonym id="1">contribution, gift, offering</synonym>
+  </item>
+  <item>
+    <word>emergent</word>
+    <meaning id="1">떠오르는, 신흥의</meaning>
+    <synonym id="1">emerging, nascent</synonym>
+  </item>
+  <item>
+    <word>encourage</word>
+    <meaning id="1">격려하다</meaning>
+    <synonym id="1">cheer up, hearten, motivate</synonym>
+  </item>
+  <item>
+    <word>endorse</word>
+    <meaning id="1">배서(서명)하다</meaning>
+    <meaning id="2">보증하다, 지지하다</meaning>
+    <synonym id="1">sign, subscribe</synonym>
+    <synonym id="2">support, back, approve</synonym>
+  </item>
+  <item>
+    <word>esteem</word>
+    <meaning id="1">존경하다</meaning>
+    <synonym id="1">respect, revere</synonym>
+  </item>
+  <item>
+    <word>evident</word>
+    <meaning id="1">분명한</meaning>
+    <synonym id="1">obvious, apparent , manifest</synonym>
+  </item>
+  <item>
+    <word>fervor</word>
+    <meaning id="1">열정</meaning>
+    <synonym id="1">zeal, passion, ardor</synonym>
+  </item>
+  <item>
+    <word>hectic</word>
+    <meaning id="1">매우 흥분한</meaning>
+    <synonym id="1">full of excitement , feverish, fervid</synonym>
+  </item>
+  <item>
+    <word>hub</word>
+    <meaning id="1">중심</meaning>
+    <synonym id="1">center</synonym>
+  </item>
+  <item>
+    <word>in vain</word>
+    <meaning id="1">헛되이</meaning>
+    <synonym id="1">unsuccessfully</synonym>
+  </item>
+  <item>
+    <word>incite</word>
+    <meaning id="1">자극하다</meaning>
+    <synonym id="1">provoke, inflame, spur</synonym>
+  </item>
+  <item>
+    <word>manageable</word>
+    <meaning id="1">관리할 수 있는</meaning>
+    <synonym id="1">controllable, affordable</synonym>
+  </item>
+  <item>
+    <word>milestone</word>
+    <meaning id="1">획기적인 사건</meaning>
+    <synonym id="1">important event, significant event</synonym>
+  </item>
+  <item>
+    <word>potentially</word>
+    <meaning id="1">아마도</meaning>
+    <synonym id="1">possibly</synonym>
+  </item>
+  <item>
+    <word>render</word>
+    <meaning id="1">~가 되게하다</meaning>
+    <meaning id="2">주다</meaning>
+    <synonym id="1">make</synonym>
+    <synonym id="2">provide, give, afford</synonym>
+  </item>
+  <item>
+    <word>scrap</word>
+    <meaning id="1">파편</meaning>
+    <synonym id="1">fracture, piece, portion</synonym>
+  </item>
+  <item>
+    <word>share</word>
+    <meaning id="1">몫</meaning>
+    <synonym id="1">portion, part, allotment</synonym>
+  </item>
+  <item>
+    <word>slender</word>
+    <meaning id="1">날씬한</meaning>
+    <synonym id="1">thin, slim</synonym>
+  </item>
+  <item>
+    <word>sorrow</word>
+    <meaning id="1">슬픔</meaning>
+    <synonym id="1">distress, anguish, grief</synonym>
+  </item>
+  <item>
+    <word>speck</word>
+    <meaning id="1">소량</meaning>
+    <meaning id="2">얼룩</meaning>
+    <synonym id="1">particle, atom, bit</synonym>
+    <synonym id="2">spot, splotch, stain</synonym>
+  </item>
+  <item>
+    <word>standstill</word>
+    <meaning id="1">정지</meaning>
+    <synonym id="1">complete stop, halt</synonym>
+  </item>
+  <item>
+    <word>stupid</word>
+    <meaning id="1">어리석은</meaning>
+    <synonym id="1">fatuous, dull, silly</synonym>
+  </item>
+  <item>
+    <word>sustain</word>
+    <meaning id="1">유지(지속)하다</meaning>
+    <meaning id="2">지탱하다</meaning>
+    <synonym id="1">maintain, continue</synonym>
+    <synonym id="2">support, bear, uphold</synonym>
+  </item>
+  <item>
+    <word>token</word>
+    <meaning id="1">상징, 표시</meaning>
+    <synonym id="1">symbol, mark, sign</synonym>
+  </item>
+  <item>
+    <word>track</word>
+    <meaning id="1">~을 쫓아가다</meaning>
+    <synonym id="1">follow, chase, trace</synonym>
+  </item>
+</vocabulary>
