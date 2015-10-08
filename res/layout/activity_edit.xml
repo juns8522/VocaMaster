@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#3b5998"
+    tools:context="com.example.jun.vocamaster.view.EditActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="2"
+        android:layout_marginLeft="@dimen/small_margin"
+        android:layout_marginRight="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/medium_margin"
+        android:background="@drawable/rounded_grey">
+
+        <TextView
+            android:id="@+id/tv_word"
+            android:layout_width="wrap_content"
+            android:layout_height="0sp"
+            android:layout_weight="6"
+            android:text="text"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="bold"
+            android:textColor="#3b5998"
+            android:gravity="center_vertical|bottom"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_pronunciation"
+            android:layout_width="wrap_content"
+            android:layout_height="0sp"
+            android:layout_weight="4"
+            android:textSize="@dimen/text_size_medium"
+            android:textColor="#3b5998"
+            android:gravity="center_vertical|top"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_meaning"
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/small_margin"
+        android:text="@string/meaning"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:gravity="bottom"
+        android:layout_marginBottom="@dimen/small_margin"  />
+
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="3"
+        android:id="@+id/editText_meaning"
+        android:background="@drawable/rounded_white_padding"
+        android:textSize="@dimen/text_size_medium"
+        android:textColor="#002147"
+        android:layout_marginLeft="@dimen/small_margin"
+        android:layout_marginRight="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/small_margin"/>
+
+    <TextView
+        android:id="@+id/tv_synonym"
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/small_margin"
+        android:text="@string/synonym"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:gravity="bottom"
+        android:layout_marginBottom="@dimen/small_margin" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="3"
+        android:id="@+id/editText_synonym"
+        android:background="@drawable/rounded_white_padding"
+        android:textSize="@dimen/text_size_medium"
+        android:textColor="#002147"
+        android:layout_marginLeft="@dimen/small_margin"
+        android:layout_marginRight="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/small_margin"/>
+
+</LinearLayout>
