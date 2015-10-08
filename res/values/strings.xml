@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VocaMaster</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">HOME</string>
+    <string name="action_search">Search</string>
+    <string name="action_discard">Delete All</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_add">Add</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_daum">Daum</string>
+    <string name="action_naver">Naver</string>
+    <string name="action_cambridge">Cambridge</string>
+    <string name="action_oxford">Oxford</string>
+    <string name="action_synonym">Synonym</string>
+    <string name="action_dictionary">Dictionary</string>
+    <string name="action_more">More</string>
+    <string name="action_instruction">Instruction</string>
+    <string name="title_activity_vocabulary">Vocabulary</string>
+    <string name="title_activity_vocabulary_detail">Vocabulary</string>
+    <string name="title_activity_favourite">Favorite Words</string>
+    <string name="title_activity_test_menu">Test</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_favourite_detail">Favorite Words</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_search_detail">Search</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="title_activity_statistics_detail">Statistics</string>
+    <string name="title_activity_statistics_voca_detail">Statistics</string>
+    <string name="title_activity_add">Add Vocabulary</string>
+    <string name="title_activity_edit">Edit Word</string>
+    <string name="title_activity_receiver">VocaMaster</string>
+    <string name="title_activity_instruction">Instruction</string>
+    <string name="title_activity_instruction_detail">Instruction</string>
+    <string name="title_activity_web">Web</string>
+    <string name="title_activity_web_search">Web Search</string>
+    <string name="title_instruction">Instruction</string>
+    <string name="title_chapter1">Chapter 1</string>
+    <string name="title_chapter2">Chapter 2</string>
+    <string name="title_chapter3">Chapter 3</string>
+    <string name="title_chapter4">Chapter 4</string>
+    <string name="title_chapter5">Chapter 5</string>
+    <string name="title_chapter6">Chapter 6</string>
+    <string name="title_chapter7">Chapter 7</string>
+    <string name="title_chapter8">Chapter 8</string>
+    <string name="title_chapter9">Chapter 9</string>
+    <string name="title_chapter10">Chapter 10</string>
+    <string name="title_chapter11">Chapter 11</string>
+    <string name="title_chapter12">Chapter 12</string>
+    <string name="title_chapter13">Chapter 13</string>
+    <string name="title_chapter14">Chapter 14</string>
+    <string name="title_chapter15">Chapter 15</string>
+    <string name="title_chapter16">Chapter 16</string>
+    <string name="title_chapter17">Chapter 17</string>
+    <string name="title_chapter18">Chapter 18</string>
+    <string name="title_chapter19">Chapter 19</string>
+    <string name="title_chapter20">Chapter 20</string>
+    <string name="title_chapter21">Chapter 21</string>
+    <string name="title_chapter22">Chapter 22</string>
+    <string name="title_chapter23">Chapter 23</string>
+    <string name="title_chapter24">Chapter 24</string>
+    <string name="title_chapter25">Chapter 25</string>
+    <string name="title_chapter26">Chapter 26</string>
+    <string name="title_chapter27">Chapter 27</string>
+    <string name="title_chapter28">Chapter 28</string>
+    <string name="title_chapter29">Chapter 29</string>
+    <string name="title_chapter30">Chapter 30</string>
+    <string name="title_chapter31">Chapter 31</string>
+    <string name="title_chapter32">Chapter 32</string>
+    <string name="title_chapter33">Chapter 33</string>
+    <string name="title_chapter34">Chapter 34</string>
+    <string name="title_chapter35">Chapter 35</string>
+    <string name="title_chapter36">Chapter 36</string>
+    <string name="title_chapter37">Chapter 37</string>
+    <string name="title_chapter38">Chapter 38</string>
+    <string name="title_chapter39">Chapter 39</string>
+    <string name="title_chapter40">Chapter 40</string>
+    <string name="title_chapter41">Chapter 41</string>
+    <string name="title_chapter42">Chapter 42</string>
+    <string name="title_chapter43">Chapter 43</string>
+    <string name="title_chapter44">Chapter 44</string>
+    <string name="title_chapter45">Chapter 45</string>
+    <string name="title_chapter46">Chapter 46</string>
+    <string name="title_chapter47">Chapter 47</string>
+    <string name="title_chapter48">Chapter 48</string>
+    <string name="title_chapter49">Chapter 49</string>
+    <string name="title_chapter50">Chapter 50</string>
+    <string name="title_chapter51">Chapter 51</string>
+    <string name="title_chapter52">Chapter 52</string>
+    <string name="title_chapter53">Chapter 53</string>
+    <string name="title_chapter54">Chapter 54</string>
+    <string name="title_chapter55">Chapter 55</string>
+    <string name="title_chapter56">Chapter 56</string>
+    <string name="title_chapter57">Chapter 57</string>
+    <string name="title_chapter58">Chapter 58</string>
+    <string name="title_chapter59">Chapter 59</string>
+    <string name="title_chapter60">Chapter 60</string>
+
+    <string name="title_section1">VocaMaster</string>
+    <string name="title_section2">My Vocabulary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="favourite">Favourite</string>
+    <string name="test">Test</string>
+    <string name="statistics">Statistics</string>
+    <string name="exit">Exit</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete">Delete</string>
+    <string name="word">Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="synonym">Synonym</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="chapter_">Chapter </string>
+    <string name="question_">Question </string>
+    <string name="correct_">Correct: </string>
+    <string name="wrong_">Wrong: </string>
+    <string name="selected_word_">Selected Word: </string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="internet">Internet</string>
+    <string name="add">Add</string>
+    <string name="more_info">More Info</string>
+    <string name="display_order_">Display Order: </string>
+    <string name="message_exit">Do you want to exit the application?</string>
+    <string name="message_not_found">Word Not Found</string>
+    <string name="message_delete_all">Do you want to delete all favorite words?</string>
+    <string name="message_delete">Do you want to delete?</string>
+    <string name="message_no_favorite">There is no favorite word</string>
+    <string name="message_delete_completed">Deleted</string>
+    <string name="message_internet_connection">Check the Internet connection.</string>
+
+    <string-array name="display_order">
+        <item>Alphabetical</item>
+        <item>Correct</item>
+        <item>Wrong</item>
+    </string-array>
+    <string-array name="display_order_favorite">
+        <item>Added Date</item>
+        <item>Alphabetical</item>
+    </string-array>
+    <string-array name="share_type">
+        <item>Add a word</item>
+        <item>Edit meaning</item>
+        <item>Edit synonym</item>
+    </string-array>
+
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_test_activity2">Test</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
