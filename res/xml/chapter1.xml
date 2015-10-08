@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vocabulary xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <word>absurd</word>
+    <meaning id="1">불합리한</meaning>
+    <meaning id="2">어리석은</meaning>
+    <synonym id="1">illogical, irrational, unreasonable</synonym>
+    <synonym id="2">preposterous, ridiculous, foolish</synonym>
+  </item>
+  <item>
+    <word>administer</word>
+    <meaning id="1">가하다</meaning>
+    <meaning id="2">관리하다, 집행하다</meaning>
+    <synonym id="1">manage, conduct, execute</synonym>
+    <synonym id="2">give, deal</synonym>
+  </item>
+  <item>
+    <word>affliction</word>
+    <meaning id="1">고뇌, 고통</meaning>
+    <synonym id="1">woe, distress, sorrow</synonym>
+  </item>
+  <item>
+    <word>aim</word>
+    <meaning id="1">목적</meaning>
+    <meaning id="2">목표하다</meaning>
+    <synonym id="1">goal, objective, target</synonym>
+    <synonym id="2">attempt, aspire, point</synonym>
+  </item>
+  <item>
+    <word>apart from</word>
+    <meaning id="1">~을 제외하고</meaning>
+    <synonym id="1">except for</synonym>
+  </item>
+  <item>
+    <word>average</word>
+    <meaning id="1">중수, 평균(치)</meaning>
+    <synonym id="1">mean, median</synonym>
+  </item>
+  <item>
+    <word>beneath</word>
+    <meaning id="1">~할 가치가 없는</meaning>
+    <synonym id="1">below</synonym>
+  </item>
+  <item>
+    <word>covet</word>
+    <meaning id="1">갈망하다</meaning>
+    <synonym id="1">desire, long for, aspire to</synonym>
+  </item>
+  <item>
+    <word>designated</word>
+    <meaning id="1">지정된</meaning>
+    <synonym id="1">specified, assigned, appointed</synonym>
+  </item>
+  <item>
+    <word>detractor</word>
+    <meaning id="1">험담하는 사람</meaning>
+    <synonym id="1">critic</synonym>
+  </item>
+  <item>
+    <word>enthusiasm</word>
+    <meaning id="1">열정</meaning>
+    <synonym id="1">eagerness, zeal, passion</synonym>
+  </item>
+  <item>
+    <word>escape</word>
+    <meaning id="1">도피</meaning>
+    <meaning id="2">피하다</meaning>
+    <synonym id="1">flight, freedom</synonym>
+    <synonym id="2">flee, evade, avoid</synonym>
+  </item>
+  <item>
+    <word>exclude</word>
+    <meaning id="1">배제하다</meaning>
+    <synonym id="1">expel, leave out</synonym>
+  </item>
+  <item>
+    <word>flake</word>
+    <meaning id="1">파편</meaning>
+    <synonym id="1">fragment, bit, chip</synonym>
+  </item>
+  <item>
+    <word>green hand</word>
+    <meaning id="1">미숙한 사람</meaning>
+    <synonym id="1">untrained worker</synonym>
+  </item>
+  <item>
+    <word>guarantee</word>
+    <meaning id="1">보증하다</meaning>
+    <synonym id="1">insure, warrant</synonym>
+  </item>
+  <item>
+    <word>guilty</word>
+    <meaning id="1">유죄의</meaning>
+    <synonym id="1">criminal, culpable</synonym>
+  </item>
+  <item>
+    <word>hearten</word>
+    <meaning id="1">격려하다</meaning>
+    <synonym id="1">encourage, inspire, cheer</synonym>
+  </item>
+  <item>
+    <word>invaluable</word>
+    <meaning id="1">매우 귀중한</meaning>
+    <synonym id="1">precious, priceless</synonym>
+  </item>
+  <item>
+    <word>lament</word>
+    <meaning id="1">슬퍼하다, 애도하다</meaning>
+    <synonym id="1">grieve, regret, deplore</synonym>
+  </item>
+  <item>
+    <word>leave</word>
+    <meaning id="1">떠나다</meaning>
+    <synonym id="1">depart</synonym>
+  </item>
+  <item>
+    <word>liken</word>
+    <meaning id="1">비유하다</meaning>
+    <synonym id="1">compare, equate, match</synonym>
+  </item>
+  <item>
+    <word>metamorphose</word>
+    <meaning id="1">(~으로)변형, 변화하다</meaning>
+    <synonym id="1">change, transform, convert</synonym>
+  </item>
+  <item>
+    <word>nevertheless</word>
+    <meaning id="1">그럼에도 불구하고</meaning>
+    <synonym id="1">still, yet, nonetheless</synonym>
+  </item>
+  <item>
+    <word>offset</word>
+    <meaning id="1">상쇄하다</meaning>
+    <synonym id="1">balance, counterbalance, counteract</synonym>
+  </item>
+  <item>
+    <word>plain</word>
+    <meaning id="1">꾸밈없는, 간소한</meaning>
+    <meaning id="2">분명한</meaning>
+    <synonym id="1">unadorned, undecorated, simple</synonym>
+    <synonym id="2">clear, distinct, obvious</synonym>
+  </item>
+  <item>
+    <word>praise</word>
+    <meaning id="1">칭송하다</meaning>
+    <synonym id="1">acclaim, hail, admire</synonym>
+  </item>
+  <item>
+    <word>reassuring</word>
+    <meaning id="1">용기를 북돋는</meaning>
+    <synonym id="1">encouraging, refreshing, revitalizing</synonym>
+  </item>
+  <item>
+    <word>refine</word>
+    <meaning id="1">다듬어 좋게 하다</meaning>
+    <synonym id="1">improve, polish</synonym>
+  </item>
+  <item>
+    <word>refined</word>
+    <meaning id="1">정제된</meaning>
+    <synonym id="1">purified, clarified, distilled</synonym>
+  </item>
+  <item>
+    <word>relevance</word>
+    <meaning id="1">적절, 타당성</meaning>
+    <synonym id="1">germaneness, pertinence</synonym>
+  </item>
+  <item>
+    <word>rotate</word>
+    <meaning id="1">회전하다</meaning>
+    <synonym id="1">turn, spin, wheel</synonym>
+  </item>
+  <item>
+    <word>staple</word>
+    <meaning id="1">기본적인, 주요한</meaning>
+    <meaning id="2">중요 상품</meaning>
+    <synonym id="1">basic, principal</synonym>
+    <synonym id="2">basic item, necessary commodity</synonym>
+  </item>
+  <item>
+    <word>stir</word>
+    <meaning id="1">자극하다</meaning>
+    <synonym id="1">agitate, provoke, rouse,</synonym>
+  </item>
+  <item>
+    <word>unpin</word>
+    <meaning id="1">핀(종류의 것)을 빼다</meaning>
+    <synonym id="1">to remove a pin</synonym>
+  </item>
+  <item>
+    <word>utilize</word>
+    <meaning id="1">이용하다</meaning>
+    <synonym id="1">employ, make use of</synonym>
+  </item>
+  <item>
+    <word>veneration</word>
+    <meaning id="1">존경</meaning>
+    <synonym id="1">admiration, adoration, reverence</synonym>
+  </item>
+  <item>
+    <word>void</word>
+    <meaning id="1">쓸모없는</meaning>
+    <synonym id="1">useless, ineffectual, vain</synonym>
+  </item>
+  <item>
+    <word>wild</word>
+    <meaning id="1">난폭한</meaning>
+    <meaning id="2">야생의</meaning>
+    <synonym id="1">unruly, uncontrollable, frantic</synonym>
+    <synonym id="2">uncultivated, untamed, undomesticated</synonym>
+  </item>
+</vocabulary>
