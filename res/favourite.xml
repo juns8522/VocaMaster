@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jun.vocamaster.view.FavouriteActivity" >
+    <item android:id="@+id/action_home"
+        android:title="@string/action_home"
+        android:showAsAction="always" />
+    <item android:id="@+id/action_discard"
+        android:title="@string/action_discard"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="never"/>
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
