@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/rounded_blue"
+    android:padding="@dimen/widget_margin">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:weightSum="11"
+        android:layout_margin="@dimen/widget_margin_detail"
+        android:background="@drawable/rounded_grey" >
+
+        <TextView
+            android:id="@+id/appwidget_word"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_weight="10"
+            android:text="WORD"
+            android:textColor="#3b5998"
+            android:textSize="@dimen/text_size_widget"
+            android:textStyle="bold|italic"
+            android:gravity="center"/>
+
+        <Button
+            android:id="@+id/btn_refresh"
+            android:layout_width="@dimen/refresh_size"
+            android:layout_height="@dimen/refresh_size"
+            android:background="@drawable/ic_action_refresh"
+            android:gravity="center"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:background="@drawable/rounded_white"
+        android:layout_margin="@dimen/widget_margin_detail">
+
+        <TextView
+            android:id="@+id/appwidget_synonym"
+            android:layout_width="fill_parent"
+            android:layout_height="0sp"
+            android:layout_weight="1"
+            android:text="synonym"
+            android:textColor="#3b5998"
+            android:textSize="@dimen/text_size_widget_detail"
+            android:textStyle="italic"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/appwidget_meaning"
+            android:layout_width="fill_parent"
+            android:layout_height="0sp"
+            android:layout_weight="1"
+            android:text="meaning"
+            android:textColor="#3b5998"
+            android:textSize="@dimen/text_size_widget_detail"
+            android:textStyle="italic"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>
